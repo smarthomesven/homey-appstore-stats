@@ -1,0 +1,172 @@
+{
+  "totalApps": 1189,
+  "totalDrivers": 4860,
+  "totalDevelopers": 571,
+  "mostFrequentlyUpdatedApp": {
+    "appId": "com.eufylife.security",
+    "name": "Eufy Security",
+    "versions": 606
+  },
+  "topAuthors": [
+    {
+      "name": "Athom B.V.",
+      "count": 70,
+      "verified": true
+    },
+    {
+      "name": "Léon van der Linden",
+      "count": 28,
+      "verified": false
+    },
+    {
+      "name": "Robin de Gruijter",
+      "count": 20,
+      "verified": false
+    },
+    {
+      "name": "Martijn Poppen",
+      "count": 17,
+      "verified": false
+    },
+    {
+      "name": "Emile Nijssen",
+      "count": 15,
+      "verified": true
+    },
+    {
+      "name": "Arie J. Godschalk",
+      "count": 14,
+      "verified": false
+    },
+    {
+      "name": "Adrian Rockall",
+      "count": 13,
+      "verified": false
+    },
+    {
+      "name": "Ronny Winkler",
+      "count": 13,
+      "verified": false
+    },
+    {
+      "name": "Bjørnar Almli",
+      "count": 11,
+      "verified": false
+    },
+    {
+      "name": "Bretislav Kubesa",
+      "count": 9,
+      "verified": false
+    }
+  ],
+  "authorWithMostApps": [
+    "Athom B.V.",
+    {
+      "count": 70,
+      "verified": true,
+      "userId": "55db7e3cd4a9b01b3a198118"
+    }
+  ],
+  "averageTimeBetweenUpdatesDays": 74.90112538722788,
+  "connectivityProtocols": {
+    "lan": 244,
+    "cloud": 214,
+    "matter": 23,
+    "zigbee": 102,
+    "ble": 24,
+    "zwave": 94,
+    "rf433": 21,
+    "infrared": 17
+  },
+  "averageDriversPerApp": 5,
+  "averageDriversPerAppExact": 4.979508196721311,
+  "donationPercentage": 47.01429772918419,
+  "donationCount": {
+    "withDonation": 559,
+    "total": 1189
+  },
+  "appsWithDriversPercentage": 82.00168208578637,
+  "appsWithDriversCount": 975,
+  "cloudAvailablePercentage": 16.989066442388562,
+  "cloudAvailableCount": 202,
+  "sourceAvailablePercentage": 40.95878889823381,
+  "sourceAvailableCount": 487,
+  "forumTopicPercentage": 47.85534062237174,
+  "forumTopicCount": 569,
+  "issuesUrlPercentage": 45.584524810765345,
+  "issuesUrlCount": 542,
+  "verifiedDevelopersPercentage": 49.38704028021016,
+  "verifiedDevelopersCount": {
+    "verified": 282,
+    "total": 571
+  },
+  "topCapabilities": [
+    {
+      "name": "onoff",
+      "count": 2141
+    },
+    {
+      "name": "dim",
+      "count": 947
+    },
+    {
+      "name": "measure_battery",
+      "count": 915
+    },
+    {
+      "name": "measure_temperature",
+      "count": 778
+    },
+    {
+      "name": "measure_power",
+      "count": 736
+    }
+  ],
+  "categories": {
+    "tools": 217,
+    "appliances": 228,
+    "localization": 25,
+    "energy": 143,
+    "internet": 131,
+    "security": 78,
+    "lights": 127,
+    "climate": 177,
+    "video": 28,
+    "music": 35
+  },
+  "year2025Recap": {
+    "newApps": 198,
+    "newDevelopers": 142,
+    "totalVersionsPublished": 5337,
+    "mostPopularProtocol": {
+      "name": "cloud",
+      "count": 49
+    },
+    "mostPopularCategory": {
+      "name": "tools",
+      "count": 43
+    },
+    "protocolCounts": {
+      "cloud": 49,
+      "ble": 5,
+      "lan": 43,
+      "matter": 7,
+      "zigbee": 14,
+      "zwave": 3,
+      "infrared": 3,
+      "rf433": 1
+    },
+    "categoryCounts": {
+      "tools": 43,
+      "localization": 2,
+      "energy": 38,
+      "security": 11,
+      "appliances": 25,
+      "internet": 21,
+      "lights": 18,
+      "climate": 33,
+      "video": 3,
+      "music": 4
+    }
+  }
+}
