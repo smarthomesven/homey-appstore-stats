@@ -1,7 +1,7 @@
 {
-  "totalApps": 1189,
-  "totalDrivers": 4860,
-  "totalDevelopers": 571,
+  "totalApps": 1196,
+  "totalDrivers": 4881,
+  "totalDevelopers": 577,
   "mostFrequentlyUpdatedApp": {
     "appId": "com.eufylife.security",
     "name": "Eufy Security",
@@ -67,10 +67,10 @@
       "userId": "55db7e3cd4a9b01b3a198118"
     }
   ],
-  "averageTimeBetweenUpdatesDays": 74.90112538722788,
+  "averageTimeBetweenUpdatesDays": 74.7349129132463,
   "connectivityProtocols": {
-    "lan": 244,
-    "cloud": 214,
+    "lan": 246,
+    "cloud": 216,
     "matter": 23,
     "zigbee": 102,
     "ble": 24,
@@ -79,31 +79,31 @@
     "infrared": 17
   },
   "averageDriversPerApp": 5,
-  "averageDriversPerAppExact": 4.979508196721311,
-  "donationPercentage": 47.01429772918419,
+  "averageDriversPerAppExact": 4.965412004069176,
+  "donationPercentage": 46.82274247491639,
   "donationCount": {
-    "withDonation": 559,
-    "total": 1189
+    "withDonation": 560,
+    "total": 1196
   },
-  "appsWithDriversPercentage": 82.00168208578637,
-  "appsWithDriversCount": 975,
-  "cloudAvailablePercentage": 16.989066442388562,
-  "cloudAvailableCount": 202,
-  "sourceAvailablePercentage": 40.95878889823381,
-  "sourceAvailableCount": 487,
-  "forumTopicPercentage": 47.85534062237174,
-  "forumTopicCount": 569,
-  "issuesUrlPercentage": 45.584524810765345,
-  "issuesUrlCount": 542,
-  "verifiedDevelopersPercentage": 49.38704028021016,
+  "appsWithDriversPercentage": 82.10702341137124,
+  "appsWithDriversCount": 982,
+  "cloudAvailablePercentage": 16.97324414715719,
+  "cloudAvailableCount": 203,
+  "sourceAvailablePercentage": 40.88628762541806,
+  "sourceAvailableCount": 489,
+  "forumTopicPercentage": 47.74247491638796,
+  "forumTopicCount": 571,
+  "issuesUrlPercentage": 45.5685618729097,
+  "issuesUrlCount": 545,
+  "verifiedDevelopersPercentage": 49.04679376083189,
   "verifiedDevelopersCount": {
-    "verified": 282,
-    "total": 571
+    "verified": 283,
+    "total": 577
   },
   "topCapabilities": [
     {
       "name": "onoff",
-      "count": 2141
+      "count": 2147
     },
     {
       "name": "dim",
@@ -111,45 +111,45 @@
     },
     {
       "name": "measure_battery",
-      "count": 915
+      "count": 921
     },
     {
       "name": "measure_temperature",
-      "count": 778
+      "count": 787
     },
     {
       "name": "measure_power",
-      "count": 736
+      "count": 740
     }
   ],
   "categories": {
-    "tools": 217,
+    "tools": 219,
     "appliances": 228,
     "localization": 25,
-    "energy": 143,
+    "energy": 145,
     "internet": 131,
-    "security": 78,
+    "security": 79,
     "lights": 127,
-    "climate": 177,
+    "climate": 178,
     "video": 28,
-    "music": 35
+    "music": 36
   },
   "year2025Recap": {
-    "newApps": 198,
-    "newDevelopers": 142,
-    "totalVersionsPublished": 5337,
+    "newApps": 205,
+    "newDevelopers": 148,
+    "totalVersionsPublished": 5424,
     "mostPopularProtocol": {
       "name": "cloud",
-      "count": 49
+      "count": 51
     },
     "mostPopularCategory": {
       "name": "tools",
-      "count": 43
+      "count": 45
     },
     "protocolCounts": {
-      "cloud": 49,
+      "cloud": 51,
       "ble": 5,
-      "lan": 43,
+      "lan": 45,
       "matter": 7,
       "zigbee": 14,
       "zwave": 3,
@@ -157,16 +157,16 @@
       "rf433": 1
     },
     "categoryCounts": {
-      "tools": 43,
+      "tools": 45,
       "localization": 2,
-      "energy": 38,
-      "security": 11,
+      "energy": 40,
+      "security": 12,
       "appliances": 25,
       "internet": 21,
       "lights": 18,
-      "climate": 33,
+      "climate": 34,
       "video": 3,
-      "music": 4
+      "music": 5
     }
   }
 }
