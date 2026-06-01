@@ -1,7 +1,7 @@
 {
-  "totalApps": 1367,
-  "totalDrivers": 5506,
-  "totalDevelopers": 673,
+  "totalApps": 1432,
+  "totalDrivers": 5658,
+  "totalDevelopers": 701,
   "mostFrequentlyUpdatedApp": {
     "appId": "com.eufylife.security",
     "name": "Eufy Security",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Sven Serlier",
-      "count": 22,
+      "count": 24,
       "verified": false
     },
     {
@@ -25,13 +25,8 @@
     },
     {
       "name": "Martijn Poppen",
-      "count": 17,
+      "count": 18,
       "verified": false
-    },
-    {
-      "name": "Emile Nijssen",
-      "count": 15,
-      "verified": true
     },
     {
       "name": "Adrian Rockall",
@@ -42,6 +37,11 @@
       "name": "Arie J. Godschalk",
       "count": 14,
       "verified": false
+    },
+    {
+      "name": "Emile Nijssen",
+      "count": 14,
+      "verified": true
     },
     {
       "name": "Ronny Winkler",
@@ -67,106 +67,106 @@
       "userId": "55db7e3cd4a9b01b3a198118"
     }
   ],
-  "averageTimeBetweenUpdatesDays": 70.647358577373,
+  "averageTimeBetweenUpdatesDays": 68.66668699130204,
   "connectivityProtocols": {
-    "lan": 308,
-    "cloud": 247,
-    "matter": 28,
-    "zigbee": 106,
-    "ble": 24,
+    "lan": 320,
+    "cloud": 269,
+    "matter": 29,
+    "zigbee": 110,
+    "ble": 26,
     "zwave": 94,
     "rf433": 21,
-    "infrared": 17
+    "infrared": 20
   },
   "averageDriversPerApp": 5,
-  "averageDriversPerAppExact": 4.846830985915493,
-  "donationPercentage": 44.91587417702999,
+  "averageDriversPerAppExact": 4.750629722921914,
+  "donationPercentage": 44.134078212290504,
   "donationCount": {
-    "withDonation": 614,
-    "total": 1367
+    "withDonation": 632,
+    "total": 1432
   },
-  "appsWithDriversPercentage": 83.02852962692026,
-  "appsWithDriversCount": 1135,
-  "cloudAvailablePercentage": 15.28895391367959,
-  "cloudAvailableCount": 209,
-  "sourceAvailablePercentage": 41.69714703730797,
-  "sourceAvailableCount": 570,
-  "forumTopicPercentage": 45.42794440380395,
-  "forumTopicCount": 621,
-  "issuesUrlPercentage": 43.37966349670812,
-  "issuesUrlCount": 593,
-  "verifiedDevelopersPercentage": 45.022288261515605,
+  "appsWithDriversPercentage": 83.10055865921788,
+  "appsWithDriversCount": 1190,
+  "cloudAvailablePercentage": 14.94413407821229,
+  "cloudAvailableCount": 214,
+  "sourceAvailablePercentage": 41.75977653631285,
+  "sourceAvailableCount": 598,
+  "forumTopicPercentage": 45.32122905027933,
+  "forumTopicCount": 649,
+  "issuesUrlPercentage": 43.64525139664804,
+  "issuesUrlCount": 625,
+  "verifiedDevelopersPercentage": 43.794579172610554,
   "verifiedDevelopersCount": {
-    "verified": 303,
-    "total": 673
+    "verified": 307,
+    "total": 701
   },
   "topCapabilities": [
     {
       "name": "onoff",
-      "count": 2345
+      "count": 2402
     },
     {
       "name": "measure_battery",
-      "count": 1061
+      "count": 1075
     },
     {
       "name": "dim",
-      "count": 1011
+      "count": 1025
     },
     {
       "name": "measure_temperature",
-      "count": 910
+      "count": 932
     },
     {
       "name": "measure_power",
-      "count": 871
+      "count": 910
     }
   ],
   "categories": {
-    "energy": 186,
-    "lights": 134,
-    "climate": 209,
-    "tools": 257,
-    "appliances": 265,
+    "energy": 192,
+    "lights": 136,
+    "climate": 221,
+    "tools": 280,
+    "appliances": 274,
+    "internet": 140,
+    "security": 90,
+    "video": 32,
     "localization": 24,
-    "internet": 132,
-    "security": 88,
-    "video": 31,
-    "music": 41
+    "music": 43
   },
   "year2025Recap": {
-    "newApps": 219,
-    "newDevelopers": 157,
-    "totalVersionsPublished": 5523,
+    "newApps": 224,
+    "newDevelopers": 163,
+    "totalVersionsPublished": 5522,
     "mostPopularProtocol": {
       "name": "cloud",
-      "count": 57
+      "count": 60
     },
     "mostPopularCategory": {
       "name": "tools",
       "count": 48
     },
     "protocolCounts": {
-      "lan": 56,
-      "cloud": 57,
+      "lan": 58,
+      "cloud": 60,
       "ble": 5,
       "matter": 7,
-      "zigbee": 14,
+      "zigbee": 16,
       "zwave": 3,
       "infrared": 3,
       "rf433": 1
     },
     "categoryCounts": {
-      "climate": 38,
+      "climate": 39,
       "tools": 48,
-      "localization": 2,
-      "energy": 47,
+      "energy": 48,
       "security": 12,
-      "appliances": 25,
-      "internet": 21,
-      "lights": 17,
+      "appliances": 27,
+      "internet": 22,
+      "lights": 18,
       "video": 3,
-      "music": 6
+      "music": 6,
+      "localization": 1
     }
   }
 }
