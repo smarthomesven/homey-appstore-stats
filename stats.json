@@ -1,11 +1,11 @@
 {
-  "totalApps": 1432,
-  "totalDrivers": 5658,
-  "totalDevelopers": 701,
+  "totalApps": 1477,
+  "totalDrivers": 5796,
+  "totalDevelopers": 720,
   "mostFrequentlyUpdatedApp": {
     "appId": "com.eufylife.security",
     "name": "Eufy Security",
-    "versions": 611
+    "versions": 613
   },
   "topAuthors": [
     {
@@ -26,6 +26,11 @@
     {
       "name": "Martijn Poppen",
       "count": 18,
+      "verified": false
+    },
+    {
+      "name": "Declan Rice",
+      "count": 15,
       "verified": false
     },
     {
@@ -52,11 +57,6 @@
       "name": "Remco Bosshard",
       "count": 12,
       "verified": false
-    },
-    {
-      "name": "Bretislav Kubesa",
-      "count": 12,
-      "verified": false
     }
   ],
   "authorWithMostApps": [
@@ -67,69 +67,69 @@
       "userId": "55db7e3cd4a9b01b3a198118"
     }
   ],
-  "averageTimeBetweenUpdatesDays": 68.66668699130204,
+  "averageTimeBetweenUpdatesDays": 65.73782588716942,
   "connectivityProtocols": {
-    "lan": 320,
-    "cloud": 269,
+    "lan": 333,
+    "cloud": 283,
     "matter": 29,
-    "zigbee": 110,
-    "ble": 26,
+    "zigbee": 112,
+    "ble": 27,
     "zwave": 94,
     "rf433": 21,
     "infrared": 20
   },
   "averageDriversPerApp": 5,
-  "averageDriversPerAppExact": 4.750629722921914,
-  "donationPercentage": 44.134078212290504,
+  "averageDriversPerAppExact": 4.731428571428571,
+  "donationPercentage": 43.060257278266754,
   "donationCount": {
-    "withDonation": 632,
-    "total": 1432
+    "withDonation": 636,
+    "total": 1477
   },
-  "appsWithDriversPercentage": 83.10055865921788,
-  "appsWithDriversCount": 1190,
-  "cloudAvailablePercentage": 14.94413407821229,
-  "cloudAvailableCount": 214,
-  "sourceAvailablePercentage": 41.75977653631285,
-  "sourceAvailableCount": 598,
-  "forumTopicPercentage": 45.32122905027933,
-  "forumTopicCount": 649,
-  "issuesUrlPercentage": 43.64525139664804,
-  "issuesUrlCount": 625,
-  "verifiedDevelopersPercentage": 43.794579172610554,
+  "appsWithDriversPercentage": 82.87068381855111,
+  "appsWithDriversCount": 1224,
+  "cloudAvailablePercentage": 15.165876777251185,
+  "cloudAvailableCount": 224,
+  "sourceAvailablePercentage": 41.570751523358155,
+  "sourceAvailableCount": 614,
+  "forumTopicPercentage": 45.22681110358835,
+  "forumTopicCount": 668,
+  "issuesUrlPercentage": 43.127962085308056,
+  "issuesUrlCount": 637,
+  "verifiedDevelopersPercentage": 44.30555555555556,
   "verifiedDevelopersCount": {
-    "verified": 307,
-    "total": 701
+    "verified": 319,
+    "total": 720
   },
   "topCapabilities": [
     {
       "name": "onoff",
-      "count": 2402
+      "count": 2447
     },
     {
       "name": "measure_battery",
-      "count": 1075
+      "count": 1112
     },
     {
       "name": "dim",
-      "count": 1025
+      "count": 1029
     },
     {
       "name": "measure_temperature",
-      "count": 932
+      "count": 973
     },
     {
       "name": "measure_power",
-      "count": 910
+      "count": 946
     }
   ],
   "categories": {
-    "energy": 192,
-    "lights": 136,
-    "climate": 221,
-    "tools": 280,
-    "appliances": 274,
-    "internet": 140,
-    "security": 90,
+    "energy": 205,
+    "lights": 138,
+    "climate": 226,
+    "tools": 295,
+    "appliances": 280,
+    "internet": 141,
+    "security": 93,
     "video": 32,
     "localization": 24,
     "music": 43
@@ -137,7 +137,7 @@
   "year2025Recap": {
     "newApps": 224,
     "newDevelopers": 163,
-    "totalVersionsPublished": 5522,
+    "totalVersionsPublished": 5521,
     "mostPopularProtocol": {
       "name": "cloud",
       "count": 60
