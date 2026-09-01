@@ -1,21 +1,21 @@
 {
-  "totalApps": 1541,
-  "totalDrivers": 5978,
-  "totalDevelopers": 762,
+  "totalApps": 1611,
+  "totalDrivers": 6295,
+  "totalDevelopers": 784,
   "mostFrequentlyUpdatedApp": {
     "appId": "com.eufylife.security",
     "name": "Eufy Security",
-    "versions": 618
+    "versions": 621
   },
   "topAuthors": [
     {
       "name": "Athom B.V.",
-      "count": 70,
+      "count": 69,
       "verified": true
     },
     {
       "name": "Sven Serlier",
-      "count": 28,
+      "count": 34,
       "verified": false
     },
     {
@@ -62,92 +62,92 @@
   "authorWithMostApps": [
     "Athom B.V.",
     {
-      "count": 70,
+      "count": 69,
       "verified": true,
-      "userId": "55db7e3cd4a9b01b3a198118"
+      "userId": null
     }
   ],
-  "averageTimeBetweenUpdatesDays": 64.72138728969476,
+  "averageTimeBetweenUpdatesDays": 62.9774686960538,
   "connectivityProtocols": {
-    "lan": 355,
-    "cloud": 300,
-    "matter": 33,
-    "zigbee": 114,
-    "ble": 28,
-    "zwave": 93,
-    "rf433": 23,
+    "lan": 384,
+    "cloud": 325,
+    "matter": 35,
+    "zigbee": 118,
+    "ble": 34,
+    "zwave": 95,
+    "rf433": 24,
     "infrared": 20
   },
   "averageDriversPerApp": 5,
-  "averageDriversPerAppExact": 4.6593920498830865,
-  "donationPercentage": 42.63465282284231,
+  "averageDriversPerAppExact": 4.6664195700518905,
+  "donationPercentage": 41.65114835505897,
   "donationCount": {
-    "withDonation": 657,
-    "total": 1541
+    "withDonation": 671,
+    "total": 1611
   },
-  "appsWithDriversPercentage": 83.19273199221286,
-  "appsWithDriversCount": 1282,
-  "cloudAvailablePercentage": 14.536015574302402,
-  "cloudAvailableCount": 224,
-  "sourceAvailablePercentage": 41.985723556132385,
-  "sourceAvailableCount": 647,
-  "forumTopicPercentage": 44.776119402985074,
-  "forumTopicCount": 690,
-  "issuesUrlPercentage": 43.28358208955223,
-  "issuesUrlCount": 667,
-  "verifiedDevelopersPercentage": 42.25721784776903,
+  "appsWithDriversPercentage": 83.67473618870267,
+  "appsWithDriversCount": 1348,
+  "cloudAvailablePercentage": 14.276846679081315,
+  "cloudAvailableCount": 230,
+  "sourceAvailablePercentage": 42.892613283674734,
+  "sourceAvailableCount": 691,
+  "forumTopicPercentage": 44.258224705152074,
+  "forumTopicCount": 713,
+  "issuesUrlPercentage": 43.76163873370577,
+  "issuesUrlCount": 705,
+  "verifiedDevelopersPercentage": 42.60204081632653,
   "verifiedDevelopersCount": {
-    "verified": 322,
-    "total": 762
+    "verified": 334,
+    "total": 784
   },
   "topCapabilities": [
     {
       "name": "onoff",
-      "count": 2524
+      "count": 2671
     },
     {
       "name": "measure_battery",
-      "count": 1146
+      "count": 1183
     },
     {
       "name": "dim",
-      "count": 1058
+      "count": 1108
     },
     {
       "name": "measure_temperature",
-      "count": 1001
+      "count": 1069
     },
     {
       "name": "measure_power",
-      "count": 988
+      "count": 1053
     }
   ],
   "categories": {
-    "energy": 212,
-    "lights": 143,
-    "climate": 238,
-    "tools": 315,
-    "appliances": 290,
-    "security": 102,
-    "internet": 141,
-    "video": 33,
+    "energy": 224,
+    "lights": 151,
+    "climate": 256,
+    "tools": 327,
+    "appliances": 302,
+    "security": 108,
+    "internet": 140,
+    "video": 35,
     "localization": 24,
-    "music": 43
+    "music": 44
   },
   "year2025Recap": {
-    "newApps": 226,
-    "newDevelopers": 165,
-    "totalVersionsPublished": 5508,
+    "newApps": 227,
+    "newDevelopers": 162,
+    "totalVersionsPublished": 5526,
     "mostPopularProtocol": {
       "name": "lan",
-      "count": 60
+      "count": 61
     },
     "mostPopularCategory": {
-      "name": "energy",
+      "name": "tools",
       "count": 49
     },
     "protocolCounts": {
-      "lan": 60,
+      "lan": 61,
       "cloud": 60,
       "ble": 5,
       "matter": 7,
@@ -158,7 +158,7 @@
     },
     "categoryCounts": {
       "climate": 39,
-      "tools": 48,
+      "tools": 49,
       "energy": 49,
       "security": 12,
       "appliances": 27,
