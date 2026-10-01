@@ -1,7 +1,7 @@
 {
-  "totalApps": 1611,
-  "totalDrivers": 6295,
-  "totalDevelopers": 784,
+  "totalApps": 1720,
+  "totalDrivers": 6619,
+  "totalDevelopers": 816,
   "mostFrequentlyUpdatedApp": {
     "appId": "com.eufylife.security",
     "name": "Eufy Security",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Sven Serlier",
-      "count": 34,
+      "count": 39,
       "verified": false
     },
     {
@@ -29,8 +29,18 @@
       "verified": false
     },
     {
+      "name": "Emile Nijssen",
+      "count": 16,
+      "verified": true
+    },
+    {
       "name": "Declan Rice",
       "count": 16,
+      "verified": false
+    },
+    {
+      "name": "Adrian Rockall",
+      "count": 14,
       "verified": false
     },
     {
@@ -44,18 +54,8 @@
       "verified": false
     },
     {
-      "name": "Emile Nijssen",
-      "count": 14,
-      "verified": true
-    },
-    {
       "name": "Ronny Winkler",
       "count": 14,
-      "verified": false
-    },
-    {
-      "name": "Adrian Rockall",
-      "count": 13,
       "verified": false
     }
   ],
@@ -67,84 +67,84 @@
       "userId": null
     }
   ],
-  "averageTimeBetweenUpdatesDays": 62.9774686960538,
+  "averageTimeBetweenUpdatesDays": 61.065054585441395,
   "connectivityProtocols": {
-    "lan": 384,
-    "cloud": 325,
-    "matter": 35,
-    "zigbee": 118,
-    "ble": 34,
+    "lan": 415,
+    "zigbee": 121,
+    "cloud": 349,
+    "matter": 36,
+    "ble": 42,
     "zwave": 95,
-    "rf433": 24,
-    "infrared": 20
+    "rf433": 27,
+    "infrared": 21
   },
   "averageDriversPerApp": 5,
-  "averageDriversPerAppExact": 4.6664195700518905,
-  "donationPercentage": 41.65114835505897,
+  "averageDriversPerAppExact": 4.583795013850415,
+  "donationPercentage": 40.05813953488372,
   "donationCount": {
-    "withDonation": 671,
-    "total": 1611
+    "withDonation": 689,
+    "total": 1720
   },
-  "appsWithDriversPercentage": 83.67473618870267,
-  "appsWithDriversCount": 1348,
-  "cloudAvailablePercentage": 14.276846679081315,
-  "cloudAvailableCount": 230,
-  "sourceAvailablePercentage": 42.892613283674734,
-  "sourceAvailableCount": 691,
-  "forumTopicPercentage": 44.258224705152074,
-  "forumTopicCount": 713,
-  "issuesUrlPercentage": 43.76163873370577,
-  "issuesUrlCount": 705,
-  "verifiedDevelopersPercentage": 42.60204081632653,
+  "appsWithDriversPercentage": 83.8953488372093,
+  "appsWithDriversCount": 1443,
+  "cloudAvailablePercentage": 13.662790697674417,
+  "cloudAvailableCount": 235,
+  "sourceAvailablePercentage": 42.7906976744186,
+  "sourceAvailableCount": 736,
+  "forumTopicPercentage": 44.01162790697675,
+  "forumTopicCount": 757,
+  "issuesUrlPercentage": 43.43023255813954,
+  "issuesUrlCount": 747,
+  "verifiedDevelopersPercentage": 42.52450980392157,
   "verifiedDevelopersCount": {
-    "verified": 334,
-    "total": 784
+    "verified": 347,
+    "total": 816
   },
   "topCapabilities": [
     {
       "name": "onoff",
-      "count": 2671
+      "count": 2779
     },
     {
       "name": "measure_battery",
-      "count": 1183
+      "count": 1278
     },
     {
       "name": "dim",
-      "count": 1108
-    },
-    {
-      "name": "measure_temperature",
-      "count": 1069
+      "count": 1159
     },
     {
       "name": "measure_power",
-      "count": 1053
+      "count": 1128
+    },
+    {
+      "name": "measure_temperature",
+      "count": 1125
     }
   ],
   "categories": {
-    "energy": 224,
-    "lights": 151,
-    "climate": 256,
-    "tools": 327,
-    "appliances": 302,
-    "security": 108,
-    "internet": 140,
+    "energy": 251,
+    "lights": 159,
+    "climate": 276,
+    "tools": 357,
+    "appliances": 313,
+    "security": 116,
+    "internet": 143,
     "video": 35,
     "localization": 24,
-    "music": 44
+    "music": 46
   },
   "year2025Recap": {
-    "newApps": 227,
-    "newDevelopers": 162,
-    "totalVersionsPublished": 5526,
+    "newApps": 228,
+    "newDevelopers": 158,
+    "totalVersionsPublished": 5544,
     "mostPopularProtocol": {
       "name": "lan",
       "count": 61
     },
     "mostPopularCategory": {
-      "name": "tools",
-      "count": 49
+      "name": "energy",
+      "count": 50
     },
     "protocolCounts": {
       "lan": 61,
@@ -159,7 +159,7 @@
     "categoryCounts": {
       "climate": 39,
       "tools": 49,
-      "energy": 49,
+      "energy": 50,
       "security": 12,
       "appliances": 27,
       "internet": 22,
