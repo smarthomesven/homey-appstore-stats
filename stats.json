@@ -1,7 +1,7 @@
 {
-  "totalApps": 1720,
-  "totalDrivers": 6619,
-  "totalDevelopers": 816,
+  "totalApps": 1803,
+  "totalDrivers": 7023,
+  "totalDevelopers": 842,
   "mostFrequentlyUpdatedApp": {
     "appId": "com.eufylife.security",
     "name": "Eufy Security",
@@ -10,12 +10,12 @@
   "topAuthors": [
     {
       "name": "Athom B.V.",
-      "count": 69,
+      "count": 67,
       "verified": true
     },
     {
       "name": "Sven Serlier",
-      "count": 39,
+      "count": 40,
       "verified": false
     },
     {
@@ -29,14 +29,19 @@
       "verified": false
     },
     {
-      "name": "Emile Nijssen",
-      "count": 16,
-      "verified": true
+      "name": "Declan Rice",
+      "count": 17,
+      "verified": false
     },
     {
-      "name": "Declan Rice",
+      "name": "Henri Dominique Rapin",
       "count": 16,
       "verified": false
+    },
+    {
+      "name": "Emile Nijssen",
+      "count": 15,
+      "verified": true
     },
     {
       "name": "Adrian Rockall",
@@ -52,103 +57,99 @@
       "name": "Arie J. Godschalk",
       "count": 14,
       "verified": false
-    },
-    {
-      "name": "Ronny Winkler",
-      "count": 14,
-      "verified": false
     }
   ],
   "authorWithMostApps": [
     "Athom B.V.",
     {
-      "count": 69,
+      "count": 67,
       "verified": true,
       "userId": null
     }
   ],
-  "averageTimeBetweenUpdatesDays": 61.065054585441395,
+  "averageTimeBetweenUpdatesDays": 60.4693209993152,
   "connectivityProtocols": {
-    "lan": 415,
-    "zigbee": 121,
-    "cloud": 349,
+    "lan": 431,
+    "zigbee": 123,
+    "cloud": 392,
     "matter": 36,
-    "ble": 42,
+    "ble": 48,
     "zwave": 95,
-    "rf433": 27,
-    "infrared": 21
+    "rf433": 30,
+    "infrared": 21,
+    "rf868": 1
   },
   "averageDriversPerApp": 5,
-  "averageDriversPerAppExact": 4.583795013850415,
-  "donationPercentage": 40.05813953488372,
+  "averageDriversPerAppExact": 4.6295319709953855,
+  "donationPercentage": 39.10149750415973,
   "donationCount": {
-    "withDonation": 689,
-    "total": 1720
+    "withDonation": 705,
+    "total": 1803
   },
-  "appsWithDriversPercentage": 83.8953488372093,
-  "appsWithDriversCount": 1443,
-  "cloudAvailablePercentage": 13.662790697674417,
-  "cloudAvailableCount": 235,
-  "sourceAvailablePercentage": 42.7906976744186,
-  "sourceAvailableCount": 736,
-  "forumTopicPercentage": 44.01162790697675,
-  "forumTopicCount": 757,
-  "issuesUrlPercentage": 43.43023255813954,
-  "issuesUrlCount": 747,
-  "verifiedDevelopersPercentage": 42.52450980392157,
+  "appsWithDriversPercentage": 84.08208541320022,
+  "appsWithDriversCount": 1516,
+  "cloudAvailablePercentage": 13.311148086522461,
+  "cloudAvailableCount": 240,
+  "sourceAvailablePercentage": 42.37382140876317,
+  "sourceAvailableCount": 764,
+  "forumTopicPercentage": 44.75873544093178,
+  "forumTopicCount": 807,
+  "issuesUrlPercentage": 43.20576816417083,
+  "issuesUrlCount": 779,
+  "verifiedDevelopersPercentage": 41.68646080760095,
   "verifiedDevelopersCount": {
-    "verified": 347,
-    "total": 816
+    "verified": 351,
+    "total": 842
   },
   "topCapabilities": [
     {
       "name": "onoff",
-      "count": 2779
+      "count": 2932
     },
     {
       "name": "measure_battery",
-      "count": 1278
-    },
-    {
-      "name": "dim",
-      "count": 1159
+      "count": 1387
     },
     {
       "name": "measure_power",
-      "count": 1128
+      "count": 1233
+    },
+    {
+      "name": "dim",
+      "count": 1210
     },
     {
       "name": "measure_temperature",
-      "count": 1125
+      "count": 1186
     }
   ],
   "categories": {
-    "energy": 251,
-    "lights": 159,
-    "climate": 276,
-    "tools": 357,
-    "appliances": 313,
-    "security": 116,
-    "internet": 143,
+    "energy": 272,
+    "lights": 163,
+    "climate": 289,
+    "tools": 386,
+    "appliances": 320,
+    "security": 121,
+    "internet": 147,
+    "music": 47,
     "video": 35,
-    "localization": 24,
-    "music": 46
+    "localization": 23
   },
   "year2025Recap": {
     "newApps": 228,
-    "newDevelopers": 158,
-    "totalVersionsPublished": 5544,
+    "newDevelopers": 155,
+    "totalVersionsPublished": 5518,
     "mostPopularProtocol": {
       "name": "lan",
-      "count": 61
+      "count": 62
     },
     "mostPopularCategory": {
       "name": "energy",
       "count": 50
     },
     "protocolCounts": {
-      "lan": 61,
-      "cloud": 60,
+      "lan": 62,
+      "cloud": 61,
       "ble": 5,
       "matter": 7,
       "zigbee": 17,
